@@ -6,8 +6,8 @@ Welcome to the official repository of AdVisor, where we are revolutionizing digi
 
 ## 🌐 Repositories
 Our project is divided into two main repositories:
-- **[AdVisor Frontend](https://github.com/AdVisor-org/frontend)**: The frontend repository houses the user interface codebase. It's built to provide users with a seamless and intuitive experience while they navigate through the actionable insights provided by our platform.
-- **[AdVisor Backend](https://github.com/AdVisor-org/backend)**: The backend repository contains all server-side logic and database management scripts. It is the backbone of our platform, processing data and generating insights with high efficiency and reliability.
+- **[AdVisor Frontend](https://github.com/AdVisorInc/FrontEnd)**: The frontend repository houses the user interface codebase. It's built to provide users with a seamless and intuitive experience while they navigate through the actionable insights provided by our platform.
+- **[AdVisor Backend](https://github.com/AdVisorInc/BackEnd)**: The backend repository contains all server-side logic and database management scripts. It is the backbone of our platform, processing data and generating insights with high efficiency and reliability.
 
 ## 🎯 Key Features
 AdVisor is designed with the following capabilities to provide a competitive edge through technical sophistication while remaining user-friendly for a broad audience:
