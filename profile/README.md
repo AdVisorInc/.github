@@ -2,7 +2,7 @@
 
 Welcome to the official repository of AdVisor, where we are revolutionizing digital marketing through cutting-edge machine learning algorithms and AI-driven analytics. AdVisor offers unparalleled capabilities to enhance campaign performance and maximize return on investment (ROI) across various digital advertising platforms.
 
-![AdVisor Banner](https://link-to-your-project-banner-image.com/banner.png)
+![AdVisor Banner](https://github.com/AdVisorInc/images/blob/main/advisor_banner.png)
 
 ## 🌐 Repositories
 Our project is divided into two main repositories:
